@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "6996b1ecfe3a49ee4a2e5140"
+  },
+  "name": "Easy & Secure Shopping",
+  "icon": "<i class=\"bi bi-shield-lock\"></i>",
+  "shortDescription": "Apni Dukan ensures a safe and smooth shopping experience with secure payment gateways and encrypted transactions. Your personal details and payment information are fully protected, allowing you to shop online with complete confidence and peace of mind every time.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:47:08.984Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:47:20.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b209fe3a49ee4a2e5153"
+  },
+  "name": "Wide Product Collection",
+  "icon": "<i class=\"bi bi-grid\"></i>",
+  "shortDescription": "Discover a wide range of products including fashion, electronics, home essentials, and daily needs at Apni Dukan. Our regularly updated catalog ensures you always find quality products, trusted brands, and the latest trends at affordable prices.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:47:37.037Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:47:37.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b21bfe3a49ee4a2e515a"
+  },
+  "name": "Fast & Reliable Delivery",
+  "icon": "<i class=\"bi bi-truck\"></i>",
+  "shortDescription": "We deliver your orders quickly and safely with our trusted delivery partners. Apni Dukan offers reliable shipping, real-time order tracking, and careful packaging so your products reach your doorstep on time and in perfect condition.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:47:55.867Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:47:55.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b246fe3a49ee4a2e5165"
+  },
+  "name": "Easy Returns & Support",
+  "icon": "<i class=\"bi bi-arrow-repeat\"></i>",
+  "shortDescription": "Customer satisfaction comes first at Apni Dukan. Enjoy a hassle-free return policy and responsive customer support to resolve your queries quickly. If a product doesn’t meet your expectations, we make returns and replacements simple and stress-free.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:48:38.590Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:48:38.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b25dfe3a49ee4a2e516c"
+  },
+  "name": "Best Deals & Discounts",
+  "icon": "<i class=\"bi bi-tags\"></i>",
+  "shortDescription": "Save more with exciting deals, festive offers, and exclusive discounts available on Apni Dukan. We bring you the best prices on quality products so you can enjoy great value for money every time you shop with us.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:49:01.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:49:01.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b273fe3a49ee4a2e5173"
+  },
+  "name": "User-Friendly Experience",
+  "icon": "<i class=\"bi bi-phone\"></i>",
+  "shortDescription": "Apni Dukan is designed for ease and convenience across all devices. With a clean layout, smooth navigation, and mobile-friendly design, you can browse, search, and shop effortlessly whether you’re using a smartphone, tablet, or desktop.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:49:23.753Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:49:23.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b28efe3a49ee4a2e517a"
+  },
+  "name": "Multiple Payment Options",
+  "icon": "<i class=\"bi bi-credit-card\"></i>",
+  "shortDescription": "Apni Dukan supports multiple secure payment options including UPI, debit cards, credit cards, and net banking. This flexibility allows customers to choose their preferred payment method and complete purchases quickly, safely, and without any hassle.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:49:50.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:49:50.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b29dfe3a49ee4a2e5181"
+  },
+  "name": "Trusted Brands Only",
+  "icon": "<i class=\"bi bi-patch-check\"></i>",
+  "shortDescription": "We partner with trusted and well-known brands to ensure quality and authenticity. Every product on Apni Dukan goes through quality checks, so customers receive genuine items that meet expectations in terms of performance, durability, and value.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:50:05.103Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:50:05.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b2b1fe3a49ee4a2e5188"
+  },
+  "name": "Real-Time Order Tracking",
+  "icon": "<i class=\"bi bi-geo-alt\"></i>",
+  "shortDescription": "Stay updated with real-time order tracking on Apni Dukan. From order confirmation to delivery, you can easily monitor your shipment status and know exactly when your product will reach your doorstep.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:50:25.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:50:25.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b2c3fe3a49ee4a2e518f"
+  },
+  "name": "Easy Checkout Process",
+  "icon": "<i class=\"bi bi-bag-check\"></i>",
+  "shortDescription": "Our quick and simple checkout process is designed to save your time. With minimal steps and a user-friendly interface, Apni Dukan ensures a smooth checkout experience that helps you complete your purchase effortlessly.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:50:43.912Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:50:43.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b2d0fe3a49ee4a2e5196"
+  },
+  "name": "24/7 Customer Assistance",
+  "icon": "<i class=\"bi bi-headset\"></i>",
+  "shortDescription": "Our dedicated customer support team is available 24/7 to assist you with any queries or issues. Whether it’s order-related questions or product information, Apni Dukan ensures timely and helpful support for every customer.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:50:56.192Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:50:56.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996b2dffe3a49ee4a2e519d"
+  },
+  "name": "Mobile App Friendly",
+  "icon": "<i class=\"bi bi-phone\"></i>",
+  "shortDescription": "Apni Dukan is fully optimized for mobile devices, providing a seamless shopping experience on smartphones and tablets. Browse products, place orders, and track deliveries easily anytime, anywhere, with smooth performance and fast loading.",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-19T06:51:11.754Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T06:51:11.754Z"
+  },
+  "__v": 0
+}]

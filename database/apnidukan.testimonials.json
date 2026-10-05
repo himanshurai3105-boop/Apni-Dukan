@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "69a533a28c370a04f831215b"
+  },
+  "user": {
+    "$oid": "69955d68433da055e8d773ad"
+  },
+  "product": {
+    "$oid": "66601858a94295cf3e059366"
+  },
+  "message": "I recently purchased a red men’s T-shirt from Tommy Hilfiger and I’m extremely impressed with it. The red color is vibrant and rich, giving a bold yet classy look that instantly stands out. It’s perfect for casual outings and even small gatherings.\n\nThe fabric feels premium, soft, and very comfortable for all-day wear. The fit is just right—neither too tight nor too loose—offering a smart and confident appearance. The iconic logo adds a stylish touch without being overpowering. Even after washing, the color and shape remain intact. Overall, it’s a great combination of quality, comfort, and brand value.",
+  "star": 5,
+  "createdAt": {
+    "$date": "2026-03-02T06:52:18.766Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:52:18.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a533ad8c370a04f8312163"
+  },
+  "user": {
+    "$oid": "69955d68433da055e8d773ad"
+  },
+  "product": {
+    "$oid": "6668096ade7316c1291ee496"
+  },
+  "message": "I recently bought the Kids Jeans from Puma for my child, and I’m really impressed with the quality and comfort. The denim is soft yet durable, perfect for active kids who love to run and play. The fit is comfortable without being too snug, allowing plenty of movement throughout the day. I also liked the stylish design and subtle branding that make these jeans look sporty and trendy. They’ve held up well after multiple washes, with no significant fading or stretching. Overall, these jeans offer great value and comfort for everyday wear.",
+  "star": 4,
+  "createdAt": {
+    "$date": "2026-03-02T06:52:29.552Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:52:29.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a533b58c370a04f831216b"
+  },
+  "user": {
+    "$oid": "69955d68433da055e8d773ad"
+  },
+  "product": {
+    "$oid": "66601858a94295cf3e059363"
+  },
+  "message": "I recently purchased the Female White T-Shirt from Cobb, and I’m genuinely impressed! The white color is clean, bright, and easy to style with anything—from jeans to skirts or shorts. The fabric feels soft and lightweight, making it perfect for daily wear, especially in warm weather. The fit is flattering without being too tight, giving a comfortable yet chic silhouette. I also appreciate the neat stitching and good quality finish. Even after multiple washes, the shirt has maintained its shape and color beautifully. Overall, this T-shirt offers excellent comfort, style, and value! 👕✨",
+  "star": 5,
+  "createdAt": {
+    "$date": "2026-03-02T06:52:37.625Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:52:37.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a5342f8c370a04f8312235"
+  },
+  "user": {
+    "$oid": "69955d2b433da055e8d773a7"
+  },
+  "product": {
+    "$oid": "66601858a94295cf3e059363"
+  },
+  "message": "I recently bought a Female T-Shirt from Cobb and honestly, I was quite disappointed. The fabric quality did not feel as soft or premium as expected. After just one wash, the material started to lose its smooth texture and the color looked slightly faded.\n\nThe fit was also not very flattering. Although it was labeled as regular fit, it felt slightly awkward around the shoulders and loose at the waist. The stitching in some areas didn’t seem very strong either. Overall, the design looked nice in pictures, but the actual product did not fully meet my expectations for the price paid.",
+  "star": 1,
+  "createdAt": {
+    "$date": "2026-03-02T06:54:39.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:54:39.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a534458c370a04f831229a"
+  },
+  "user": {
+    "$oid": "69955d2b433da055e8d773a7"
+  },
+  "product": {
+    "$oid": "66601858a94295cf3e059366"
+  },
+  "message": "I recently purchased a red men’s T-shirt from Tommy Hilfiger and I’m extremely impressed with it. The red color is vibrant and rich, giving a bold yet classy look that instantly stands out. It’s perfect for casual outings and even small gatherings.\n\nThe fabric feels premium, soft, and very comfortable for all-day wear. The fit is just right—neither too tight nor too loose—offering a smart and confident appearance. The iconic logo adds a stylish touch without being overpowering. Even after washing, the color and shape remain intact. Overall, it’s a great combination of quality, comfort, and brand value.",
+  "star": 5,
+  "createdAt": {
+    "$date": "2026-03-02T06:55:01.821Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:55:01.821Z"
+  },
+  "__v": 0
+}]

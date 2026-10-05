@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "699fe36daf0422b90927340b"
+  },
+  "user": {
+    "$oid": "69955d2b433da055e8d773a7"
+  },
+  "deliveryAddress": {
+    "name": "Nitin Chauhan",
+    "email": "vishankchauhan@gmail.com",
+    "phone": "9873848046",
+    "address": "A-43, Ducat, Near Pioneer House",
+    "pin": "201301",
+    "city": "Noida",
+    "state": "UP "
+  },
+  "orderStatus": "Delivered",
+  "paymentMode": "COD",
+  "paymentStatus": "Done",
+  "rppid": "",
+  "subtotal": 4875,
+  "shipping": 0,
+  "total": 4875,
+  "products": [
+    {
+      "product": {
+        "$oid": "66601858a94295cf3e059366"
+      },
+      "color": "blue",
+      "size": "24",
+      "qty": 1,
+      "total": 1500,
+      "_id": {
+        "$oid": "699fe2c52dc09178458b23f4"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6668096ade7316c1291ee496"
+      },
+      "color": "blue",
+      "size": "24",
+      "qty": 1,
+      "total": 3375,
+      "_id": {
+        "$oid": "699fe2bd2dc09178458b23b1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-02-26T06:08:45.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:25:35.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fedb94e5c37ab3dc6ab68"
+  },
+  "user": {
+    "$oid": "69955d2b433da055e8d773a7"
+  },
+  "deliveryAddress": {
+    "name": "Nitin Chauhan",
+    "email": "vishankchauhan@gmail.com",
+    "phone": "9873848046",
+    "address": "Village mahawatpur post bhaskola house number 154\nNear water plant",
+    "pin": "121002",
+    "city": "Faridabad",
+    "state": "Haryana"
+  },
+  "orderStatus": "Delivered",
+  "paymentMode": "COD",
+  "paymentStatus": "Done",
+  "rppid": "",
+  "subtotal": 7485,
+  "shipping": 0,
+  "total": 7485,
+  "products": [
+    {
+      "product": {
+        "$oid": "66601858a94295cf3e059363"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "qty": 3,
+      "total": 735,
+      "_id": {
+        "$oid": "699fecf94e5c37ab3dc6aa9e"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6668096ade7316c1291ee496"
+      },
+      "color": "blue",
+      "size": "24",
+      "qty": 2,
+      "total": 6750,
+      "_id": {
+        "$oid": "699fe3fbaf0422b90927363b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-02-26T06:52:41.777Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:55:26.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a531f604a3b6a247f937d1"
+  },
+  "user": {
+    "$oid": "69955d68433da055e8d773ad"
+  },
+  "deliveryAddress": {
+    "name": "Nitin Chauhan",
+    "email": "vishankchauhan@gmail.com",
+    "phone": "9873848046",
+    "address": "Ducat, A-43, Sector 16, Behind MacD",
+    "pin": "201301",
+    "city": "Noida",
+    "state": "UP"
+  },
+  "orderStatus": "Delivered",
+  "paymentMode": "COD",
+  "paymentStatus": "Done",
+  "rppid": "",
+  "subtotal": 5120,
+  "shipping": 0,
+  "total": 5120,
+  "products": [
+    {
+      "product": {
+        "$oid": "66601858a94295cf3e059366"
+      },
+      "color": "blue",
+      "size": "24",
+      "qty": 1,
+      "total": 1500,
+      "_id": {
+        "$oid": "69a531f004a3b6a247f93791"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6668096ade7316c1291ee496"
+      },
+      "color": "blue",
+      "size": "24",
+      "qty": 1,
+      "total": 3375,
+      "_id": {
+        "$oid": "69a531ec04a3b6a247f9373c"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601858a94295cf3e059363"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "qty": 1,
+      "total": 245,
+      "_id": {
+        "$oid": "69a531e504a3b6a247f936e7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-02T06:45:10.317Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:47:15.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afb92b09167a25563a7183"
+  },
+  "user": {
+    "$oid": "69955d2b433da055e8d773a7"
+  },
+  "deliveryAddress": {
+    "name": "Nitin Chauhan",
+    "email": "vishankchauhan@gmail.com",
+    "phone": "9873848046",
+    "address": "A-43, Ducat, Near Pioneer House",
+    "pin": "201301",
+    "city": "Noida",
+    "state": "UP "
+  },
+  "orderStatus": "Order is Placed",
+  "paymentMode": "Net Banking",
+  "paymentStatus": "Done",
+  "rppid": "pay_SPQOKxRuXEtHUl",
+  "subtotal": 6276,
+  "shipping": 0,
+  "total": 6276,
+  "products": [
+    {
+      "product": {
+        "$oid": "66601852a94295cf3e059361"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "qty": 1,
+      "total": 1401,
+      "_id": {
+        "$oid": "69afb92009167a25563a7143"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601858a94295cf3e059366"
+      },
+      "color": "blue",
+      "size": "24",
+      "qty": 1,
+      "total": 1500,
+      "_id": {
+        "$oid": "69afb91809167a25563a70ee"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6668096ade7316c1291ee496"
+      },
+      "color": "blue",
+      "size": "24",
+      "qty": 1,
+      "total": 3375,
+      "_id": {
+        "$oid": "69afb90f09167a25563a7099"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-10T06:24:43.320Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T06:31:22.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afbb9c67dbaa53d29a036a"
+  },
+  "user": {
+    "$oid": "69955d68433da055e8d773ad"
+  },
+  "deliveryAddress": {
+    "name": "Nitin Chauhan",
+    "email": "vishankchauhan@gmail.com",
+    "phone": "9873848046",
+    "address": "Village mahawatpur post bhaskola house number 154\nNear water plant",
+    "pin": "121002",
+    "city": "Faridabad",
+    "state": "Haryana"
+  },
+  "orderStatus": "Order is Placed",
+  "paymentMode": "Net Banking",
+  "paymentStatus": "Done",
+  "rppid": "pay_SPQWgQQkhG0yTe",
+  "subtotal": 1802,
+  "shipping": 0,
+  "total": 1802,
+  "products": [
+    {
+      "product": {
+        "$oid": "66601848a94295cf3e05935d"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "qty": 1,
+      "total": 1254,
+      "_id": {
+        "$oid": "69afbb9867dbaa53d29a032a"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601852a94295cf3e059362"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "qty": 1,
+      "total": 548,
+      "_id": {
+        "$oid": "69afbb8e67dbaa53d29a02d5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-10T06:35:08.499Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T06:39:22.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afbd4a67dbaa53d29a0567"
+  },
+  "user": {
+    "$oid": "69955d68433da055e8d773ad"
+  },
+  "deliveryAddress": {
+    "name": "Nitin Chauhan",
+    "email": "vishankchauhan@gmail.com",
+    "phone": "9873848046",
+    "address": "Village mahawatpur post bhaskola house number 154\nNear water plant",
+    "pin": "121002",
+    "city": "Faridabad",
+    "state": "Haryana"
+  },
+  "orderStatus": "Order is Placed",
+  "paymentMode": "Net Banking",
+  "paymentStatus": "Done",
+  "rppid": "pay_SPQcwIKZUdXzw6",
+  "subtotal": 5021,
+  "shipping": 0,
+  "total": 5021,
+  "products": [
+    {
+      "product": {
+        "$oid": "66601842a94295cf3e059359"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "qty": 1,
+      "total": 1485,
+      "_id": {
+        "$oid": "69afbd3f67dbaa53d29a0527"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601848a94295cf3e05935d"
+      },
+      "color": "white",
+      "size": "xxxl",
+      "qty": 1,
+      "total": 1254,
+      "_id": {
+        "$oid": "69afbd3767dbaa53d29a04d2"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66601848a94295cf3e05935c"
+      },
+      "color": "blue",
+      "size": "24",
+      "qty": 1,
+      "total": 2282,
+      "_id": {
+        "$oid": "69afbd3067dbaa53d29a047d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-10T06:42:18.582Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T06:45:11.727Z"
+  },
+  "__v": 0
+}]

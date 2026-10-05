@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "699e962fdb46a1dd74c3673d"
+  },
+  "email": "vishankchauhan@gmail.com",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-25T06:26:55.953Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:24:19.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fe857af0422b909273a0e"
+  },
+  "email": "vishankchauhan1@gmail.com",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-26T06:29:43.709Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:39:01.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fe86caf0422b909273a10"
+  },
+  "email": "vishankchauhan2@gmail.com",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-26T06:30:04.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:30:04.229Z"
+  },
+  "__v": 0
+}]
